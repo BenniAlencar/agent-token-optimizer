@@ -1,0 +1,2 @@
+[console_scripts]
+agent-token-optimizer = agent_token_optimizer.cli:main

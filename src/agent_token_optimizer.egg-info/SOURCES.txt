@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/agent_token_optimizer/__init__.py
+src/agent_token_optimizer/cli.py
+src/agent_token_optimizer/compressor.py
+src/agent_token_optimizer/json_squeezer.py
+src/agent_token_optimizer.egg-info/PKG-INFO
+src/agent_token_optimizer.egg-info/SOURCES.txt
+src/agent_token_optimizer.egg-info/dependency_links.txt
+src/agent_token_optimizer.egg-info/entry_points.txt
+src/agent_token_optimizer.egg-info/top_level.txt
+tests/test_compressor.py
+tests/test_json_squeezer.py

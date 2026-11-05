@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-token-optimizer"
+version = "0.1.0"
+authors = [
+  { name="Benni Alencar", email="bennialencar@benni-os.net" },
+]
+description = "Sub-millisecond context compression and semantic deduplication engine for AI agents."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.scripts]
+agent-token-optimizer = "agent_token_optimizer.cli:main"
+
+[project.urls]
+"Homepage" = "https://benni-os.net"
+"Source" = "https://github.com/BenniAlencar/agent-token-optimizer"
+"Bug Tracker" = "https://github.com/BenniAlencar/agent-token-optimizer/issues"
