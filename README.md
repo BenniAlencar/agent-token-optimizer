@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="assets/demo.svg" alt="agent-token-optimizer Context Compression & JSON Squeezer Demo" width="100%"/>
+<img src="assets/demo.gif" alt="agent-token-optimizer Context Compression & JSON Squeezer Demo" width="100%"/>
 
 </div>
 
